@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-student-bf3d.vercel.app/api?username=nabilaasyaa&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=ec4899&icon_color=f0abfc&text_color=e9d5ff" width="48%" />
+<img src="https://github-readme-stats-student-bf3d.vercel.app/api?username=nabilaasyaa&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=ec4899&icon_color=f0abfc&text_color=e9d5ff"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilaasyaa&hide_border=true&background=1a0b2e&ring=ec4899&fire=f0abfc&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&dates=c084fc" width="48%" />
 
 ## 🌐 Ayo Terhubung denganku!!
